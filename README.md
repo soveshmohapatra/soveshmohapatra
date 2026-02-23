@@ -36,7 +36,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,matlab,js,sql,latex&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,matlab,js,mysql,latex&perline=8" />
   </a>
 </div>
 
@@ -45,13 +45,13 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soveshmohapatra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sovesh's GitHub Stats" width="48%" />
+  <img src="https://soveshmohapatra-my-github-stats.vercel.app/api?username=soveshmohapatra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sovesh's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soveshmohapatra&theme=tokyonight&hide_border=true&background=0D1117" alt="Sovesh's Streak" width="48%" />
 </div>
 
 <div align="center">
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soveshmohapatra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://soveshmohapatra-my-github-stats.vercel.app/api/top-langs/?username=soveshmohapatra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 ---
