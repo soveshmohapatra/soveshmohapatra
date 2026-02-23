@@ -11,7 +11,7 @@
   <a href="mailto:soveshm@seas.upenn.edu">
     <img src="https://img.shields.io/badge/Email-soveshm%40seas.upenn.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/soveshmohapatra">
+  <a href="https://linkedin.com/in/sovesh">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
